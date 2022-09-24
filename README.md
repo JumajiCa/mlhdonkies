@@ -10,5 +10,5 @@
 
 - Prizes:
 - Echo 3D. 
-- X Best UX.
-- X Best Begginer Hack.
+- [X] Best UX.
+- [X] Best Begginer Hack.
