@@ -1,0 +1,90 @@
+
+@font-face {
+	font-family: Space;
+	src: url(fonts/SpaceMono-Bold.ttf);
+}
+
+#rectangle {
+	position: absolute;
+	width: 527px;
+	height: 0px;
+	right: 170px;
+	top: 160px;
+	border: 3px solid #000000;
+	transform: rotate(-180deg);
+}
+
+
+
+body {
+	border: none;
+	margin: 50px;
+	padding: 10%;
+	background-color: white;
+} 
+
+/* Paragraph. */
+
+p {
+	color: #02f4ac;
+	font-size: 40;
+	font-family: Space;
+}
+
+.main-text {
+	color: #fcfcfc;
+}
+
+.nav_bar_focus {
+	font-family: Space;
+	font-weight: bold;
+	font-size: 30px; 
+	position: absolute;
+	left: 410px; 
+	top: 100px;
+}
+
+ .nav_bar_politics {
+	font-family: Space;
+	font-weight: lighter;
+	font-size: 30px; 
+	position: absolute;
+	left: 660px; 
+	top: 100px;
+}
+
+ .nav_bar_edit {
+	font-family: Space;
+	font-weight: lighter;
+	font-size: 30px; 
+	position: absolute;
+	left: 1010px; 
+	top: 100px;
+}
+
+/* Images. */
+.globe_image {
+	position: absolute;
+	width: 268px;
+	height: 257px;
+	top: 17px; 
+	left: 10px; 
+}
+.magnifying_glass {
+	position: absolute;
+	width: 63px;
+	height: 54px;
+	right: 170px;
+	top: 100px; 
+}
+
+.info_container_1 {
+	position: absolute;
+	width: 570px;
+	height: 260px;
+	left: 19px;
+	top: 260px;
+
+	background: #E0E1DD;
+	border-radius: 55px;
+}
