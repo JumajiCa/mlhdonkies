@@ -31,10 +31,6 @@ p {
 	font-family: Space;
 }
 
-.main-text {
-	color: #fcfcfc;
-}
-
 .nav_bar_focus {
 	font-family: Space;
 	font-weight: bold;
@@ -84,7 +80,99 @@ p {
 	height: 260px;
 	left: 19px;
 	top: 260px;
+	font: 100px;
+	font-family: Space;
 
+	font-size: 60px;
+	text-align: center;	
+	font-family: Space;
+	font-weight: light;
+	color: #000000;
 	background: #E0E1DD;
+	border-radius: 55px;
+}
+
+.main_text_1 {
+	font-family: Space;
+	position: absolute;
+	left: 20px;
+	top: 260px;
+}
+
+.info_container_2 {
+	position: absolute;
+	width: 530px;
+	height: 700px;
+	bottom: 230px; 
+	left: 50px;
+
+	background: #778DA9;
+	border-radius: 55px;
+}
+
+.info_container_3 {
+	position: absolute;
+	width: 530px;
+	height: 440px;
+	bottom: 230px; 
+	left: 660px;
+
+	background: #5281A0;
+	border-radius: 55px;
+}
+
+.info_container_4 {
+	position: absolute;
+	width: 530px;
+	height: 500px;
+	bottom: 20px; 
+	left: 660px;
+	top: 270px;
+
+	background: #204A65;
+	border-radius: 55px;
+}
+
+.info_container_5 {
+	position: absolute;
+	width: 530px;
+	height: 440px;
+	top: 270px; 
+	left: 1270px;
+
+	background: #415A77;
+	border-radius: 55px;
+}
+
+.info_container_6 {
+	position: absolute;
+	width: 530px;
+	height: 500px;
+	bottom: 230px; 
+	left: 1270px;
+
+	background: #001521;
+	border-radius: 55px;
+}
+
+.info_container_7 {
+	position: absolute;
+	width: 530px;
+	height: 550px;
+	top: 270px; 
+	left: 1900px;
+
+	background: #22227f;
+	border-radius: 55px;
+}
+
+.info_container_9 {
+	position: absolute;
+	width: 530px;
+	height: 390px;
+	bottom: 230px; 
+	left: 1900px;
+
+	background: #06163e;
 	border-radius: 55px;
 }
