@@ -1,7 +1,31 @@
 # mlhdonkies
-ahhhhhhhhhhhhhhhhhhhhhhhhh
-<<<<<<< HEAD
-jhgjlghfdgfjlgsnjlgdsnjlgd
-=======
-gggygyyuna5ae4wy6E598yodj 
->>>>>>> d4f2783869c1b326d207c90efaad5e29facc085a
+ahhhhhhhhhhhhhhhhhhhhhhhhh 
+<iu> bckushj </iu>
+<order>
+hsiahdiasdhids
+aisudisdaiudsuidsui
+dauuaoisuisdudisuisduoisa
+doaosb jaljodsjfjflkv; 
+ahbcderfghijks
+ahuhwrken; l
+fsoufndmif i look la wstring iwuiI nsasfnfuafuafnudnfnnnnnnnfudsnfudsnfdudfunfdnudfsunfdsunfdsfdnufnduunsfdfudfunsdfnudsunfdsudfsndfundufnfunsd'
+dufhuhduufhdudhsf
+oi4uligx'e
+rse
+s
+re
+res
+res
+rer
+e
+er
+re
+er
+r
+ers
+rr
+
+res
+r
+r
+ig
